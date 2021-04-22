@@ -29,7 +29,7 @@ The horses run the first loop at their base speed but at the end of each loop th
 
 The power-ups/downs are numbers, negative or positive, representing how much the horse speeds up or slows down.
 
-Your task is to compute the top 3 ranking.
+Compute the top 3 ranking.
 
 ## Example 1
 
